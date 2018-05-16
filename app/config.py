@@ -10,7 +10,7 @@ FAV_ICON = STATIC_URL + 'docker-icon.png'
 
 # Pages to show on the nav menu (provide a url or route)
 PAGES=[
-    {'title':'Lab Blog',
+    {'title':'Aarons Lab Blog',
         'url':'https://www.cloudshiftstrategies.com/flaskdockerlab.html'},
     {'title':'Load Gen','route':'loadgen'},
     ]
